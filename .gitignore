@@ -1,0 +1,11 @@
+*.raw
+*.log
+*.op
+*.tran
+*.ac
+*.net
+# Outros arquivos gerados pelo LTspice que você pode querer ignorar
+*.plt
+*.bin
+*.cir 
+# Se você gera netlists temporárias
